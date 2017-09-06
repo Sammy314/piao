@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+sh.exe.stackdump
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.project
+<<<<<<< HEAD
+package-lock.json
+=======
+ 
+ 
+  
+>>>>>>> origin/master
